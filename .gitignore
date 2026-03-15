@@ -1,1 +1,15 @@
-fashion-mnist_train.csv
+
+# MNIST datasets
+mnist/
+data/mnist/
+**/mnist/
+mnist-*
+mnist_*
+*mnist*.csv
+*fashion-mnist*.csv
+mnist.csv
+mnist.npz
+*.idx3-ubyte
+*.idx1-ubyte
+*mnist*.gz
+*.npy
